@@ -21,7 +21,7 @@ import java.util.*;
  */
 public class NecklaceSolver {
 
-    private static final String currentFolder = "C:\\Users\\johnp\\IdeaProjects\\DP 383 Easy\\";
+    private static final String currentFolder = "C:\\Users\\johnp\\IdeaProjects\\Daily Programmer\\DP 383 Easy\\";
 
     /**
      * Main challenge is to determine if two necklaces are the same.
